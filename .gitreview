@@ -1,0 +1,5 @@
+[gerrit]
+hosts=review.gerrithub.io
+port=29418
+project=redhat-openstack/tempest-plugin.git
+defaultbranch=master
